@@ -3,6 +3,16 @@
 **Author:** Okanlawon Micheal Olatunji  
 **Background:** Industrial Physics → Machine Learning Engineering  
 
+## 📋 Table of Contents
+- [Engineering Philosophy](#-engineering-philosophy)
+- [Project Architecture](#-project-architecture)
+- [Local Setup & Installation](#️-local-setup--installation)
+- [Usage & Reproducibility](#️-usage--reproducibility)
+- [Core Tech Stack](#️-core-tech-stack)
+- [Current Focus & Contact](#-current-focus-energy-ai--climate-tech)
+
+---
+
 ## 📌 Engineering Philosophy
 This repository contains a curated collection of production-grade machine learning pipelines. Coming from an Industrial Physics background, my approach to machine learning is highly systematic. I do not treat algorithms as "black boxes." Instead, I focus on:
 1. **Strict Data Hygiene:** Preventing data leakage through rigorous cross-validation and proper pipeline sequencing.
@@ -42,6 +52,13 @@ This repository contains a curated collection of production-grade machine learni
 * **Senior ML Skills:** Handled varying chemical measurement scales using standardisation. Achieved 100% accuracy with both a Random Forest and a Logistic Regression model, but successfully applied *Occam's Razor* to select the simpler, lighter linear model for final theoretical deployment to save on compute costs.
 
 ---
+## How to setup
+To ensure reproducibility, it is highly recommended to run these notebooks within an isolated virtual environment.
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/okanlawon21/Machine-Learning-Portfolio.git
+cd Machine-Learning-Portfolio
 
 ## 🛠️ Core Tech Stack
 * **Languages:** Python, SQL
