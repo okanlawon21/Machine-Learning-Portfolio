@@ -7,7 +7,7 @@
 This repository contains a curated collection of production-grade machine learning pipelines. Coming from an Industrial Physics background, my approach to machine learning is highly systematic. I do not treat algorithms as "black boxes." Instead, I focus on:
 1. **Strict Data Hygiene:** Preventing data leakage through rigorous cross-validation and proper pipeline sequencing.
 2. **Mathematical Interpretability:** Translating model coefficients and feature importances into actionable business logic.
-3. **Occam's Razor:** Prioritizing simpler, computationally efficient models (like linear regressions) over heavy ensembles when performance is mathematically tied.
+3. **Occam's Razor:** Prioritising simpler, computationally efficient models (like linear regressions) over heavy ensembles when performance is mathematically tied.
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains a curated collection of production-grade machine learni
 
 ### [01. Clinical Diagnostics: Handling Severe Imbalance](./01_Diabetes_Diagnostics)
 * **Domain:** Healthcare / Tabular Data
-* **Senior ML Skills:** Addressed critical class imbalance in medical data using `scale_pos_weight` in XGBoost. Focused on the Recall/Precision trade-off, recognizing that optimizing for "False Negatives" is the most critical business metric in clinical diagnostics.
+* **Senior ML Skills:** Addressed critical class imbalance in medical data using `scale_pos_weight` in XGBoost. Focused on the Recall/Precision trade-off, recognising that optimising for "False Negatives" is the most critical business metric in clinical diagnostics.
 
 ### [02. Real Estate Regression: Feature Engineering & Grid Search](./02_California_Housing)
 * **Domain:** Real Estate / Regression
@@ -31,7 +31,7 @@ This repository contains a curated collection of production-grade machine learni
 
 ### [05. Unsupervised Learning: Customer Segmentation](./05_Customer_Segmentation)
 * **Domain:** Retail / Clustering
-* **Senior ML Skills:** Applied the K-Means algorithm to raw, unlabeled data. Utilized the Elbow Method and Silhouette Scores to mathematically validate the optimal number of clusters ($k$), ultimately translating the vectors into actionable marketing personas.
+* **Senior ML Skills:** Applied the K-Means algorithm to raw, unlabeled data. Utilised the Elbow Method and Silhouette Scores to mathematically validate the optimal number of clusters ($k$), ultimately translating the vectors into actionable marketing personas.
 
 ### [06. Dimensionality Reduction: The PCA Trade-off](./06_Breast_Cancer_PCA)
 * **Domain:** Oncology / High-Dimensional Data
@@ -39,7 +39,7 @@ This repository contains a curated collection of production-grade machine learni
 
 ### [07. Multi-Class Cultivar Classification: Occam's Razor](./07_Wine_Cultivars)
 * **Domain:** Chemical Analysis / Multi-Class Classification
-* **Senior ML Skills:** Handled varying chemical measurement scales using standardization. Achieved 100% accuracy with both a Random Forest and a Logistic Regression model, but successfully applied *Occam's Razor* to select the simpler, lighter linear model for final theoretical deployment to save on compute costs.
+* **Senior ML Skills:** Handled varying chemical measurement scales using standardisation. Achieved 100% accuracy with both a Random Forest and a Logistic Regression model, but successfully applied *Occam's Razor* to select the simpler, lighter linear model for final theoretical deployment to save on compute costs.
 
 ---
 
@@ -52,7 +52,7 @@ This repository contains a curated collection of production-grade machine learni
 
 ---
 ## 📫 Current Focus: Energy AI & Climate Tech
-I am currently bridging my background in Industrial Physics with Deep Learning to tackle challenges in the energy sector. My active research involves **Time-Series Forecasting (LSTMs, Temporal Fusion Transformers)** and **Physics-Informed Neural Networks (PINNs)** for energy demand and grid optimization.
+I am currently bridging my background in Industrial Physics with Deep Learning to tackle challenges in the energy sector. My active research involves **Time-Series Forecasting (LSTMs, Temporal Fusion Transformers)** and **Physics-Informed Neural Networks (PINNs)** for energy demand and grid optimisation.
 
 * **LinkedIn:** [Micheal Okanlawon](https://www.linkedin.com/in/micheal-okanlawon/)
 * **X / Twitter:** [@OlatunjiokanAI](https://x.com/OlatunjiokanAI)
