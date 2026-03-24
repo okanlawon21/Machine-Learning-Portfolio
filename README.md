@@ -57,6 +57,7 @@ To ensure reproducibility, it is highly recommended to run these notebooks withi
 ```bash
 git clone https://github.com/okanlawon21/Machine-Learning-Portfolio.git
 cd Machine-Learning-Portfolio
+---
 
 ## 🛠️ Core Tech Stack
 * **Languages:** Python, SQL
