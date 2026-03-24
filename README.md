@@ -1,16 +1,14 @@
 # 🚀 Applied Machine Learning & Predictive Analytics
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Data_Science-blue?style=for-the-badge)
+
 **Author:** Okanlawon Micheal Olatunji  
 **Background:** Industrial Physics → Machine Learning Engineering  
-
-## 📋 Table of Contents
-- [Engineering Philosophy](#-engineering-philosophy)
-- [Project Architecture](#-project-architecture)
-- [Local Setup & Installation](#️-local-setup--installation)
-- [Usage & Reproducibility](#️-usage--reproducibility)
-- [Core Tech Stack](#️-core-tech-stack)
-- [Current Focus & Contact](#-current-focus-energy-ai--climate-tech)
-
 ---
 
 ## 📌 Engineering Philosophy
