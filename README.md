@@ -50,14 +50,6 @@ This repository contains a curated collection of production-grade machine learni
 * **Senior ML Skills:** Handled varying chemical measurement scales using standardisation. Achieved 100% accuracy with both a Random Forest and a Logistic Regression model, but successfully applied *Occam's Razor* to select the simpler, lighter linear model for final theoretical deployment to save on compute costs.
 
 ---
-## How to setup
-To ensure reproducibility, it is highly recommended to run these notebooks within an isolated virtual environment.
-
-**1. Clone the repository:**
-```bash
-git clone https://github.com/okanlawon21/Machine-Learning-Portfolio.git
-cd Machine-Learning-Portfolio
----
 
 ## 🛠️ Core Tech Stack
 * **Languages:** Python, SQL
